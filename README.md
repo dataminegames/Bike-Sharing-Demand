@@ -1,1 +1,2 @@
-# Bike-Sharing-Demand
+# Bike_Sharing_Demand
+Kaggle - regression project
